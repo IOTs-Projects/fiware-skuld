@@ -9,7 +9,7 @@
 pbr>=0.11.1,<=1.8.1
 
 python-openstackclient==1.9.0
-python-neutronclient==4.2.0
+python-neutronclient==7.3.0
 python-swiftclient==3.0.0
 python-glanceclient==2.0.0
 python-novaclient==3.3.0
